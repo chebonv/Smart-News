@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "851436479526",
+    "firebase_url": "https://smart-news-2f055.firebaseio.com",
+    "project_id": "smart-news-2f055",
+    "storage_bucket": "smart-news-2f055.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851436479526:android:90a8db2c05c2b9713c72e7",
+        "android_client_info": {
+          "package_name": "com.icode.smart_news"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851436479526-5vi1tug5gqhno151cln1bk2i0ukbhiie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvZS_j6JJ0AgAkbMqQupYLvpP7pchduvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851436479526-5vi1tug5gqhno151cln1bk2i0ukbhiie.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
